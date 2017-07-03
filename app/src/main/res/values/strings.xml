@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SideMenuDemo</string>
+    <string name="open">Open side Menu</string>
+    <string name="close">Close side Menu</string>
+</resources>
